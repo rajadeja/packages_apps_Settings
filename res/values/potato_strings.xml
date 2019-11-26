@@ -25,7 +25,7 @@
     <string name="build_type">Build Type</string>
     <string name="potato_official">Official</string>
     <string name="potato_unofficial">Unofficial</string>
-    <string name="potato_dish">%s (%s)</string>
+    <string name="potato_mashed">Mashed</string>
 
     <!--  allow to pulse on new tracks -->
     <string name="pulse_on_new_tracks_title">Ambient music ticker</string>
